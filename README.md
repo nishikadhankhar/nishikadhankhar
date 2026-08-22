@@ -133,15 +133,6 @@ kept in the open)
 
 <br>
 
-## Currently
-
-- 🔭 Extending the cold storage system — persisting history to Postgres, and a custom KiCad carrier board to get it off the breadboard
-- 🌱 Working through DSA, Python and ML fundamentals daily, logged in the open at [`learning-tracker`](https://github.com/nishikadhankhar/learning-tracker)
-- 🎯 Building toward **GSoC 2027** — looking for an org where embedded, vision, or sensor data is the point
-- 💬 Happy to talk about ESP32 gotchas, USB HID gadgets, or getting YOLO to run fast on modest hardware
-
-<br>
-
 ## Say hi
 
 <p>
